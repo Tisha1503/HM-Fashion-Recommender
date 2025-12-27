@@ -1,0 +1,10 @@
+# Data files
+*.csv
+*.parquet
+images/
+*.npy
+
+# Python environment
+__pycache__/
+.venv/
+.env
